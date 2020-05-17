@@ -1,0 +1,24 @@
+[buildPlans.natasha_I]
+family = "Natasha I"
+
+# refs:
+# - https://github.com/be5invis/Iosevka#build-your-own-style
+# - https://typeof.net/Iosevka
+
+design = [
+  "ss14", # Jetbrains Mono stylistic set
+  # low underscore
+  "v-underscore-low",
+  # customize ligatures
+  "calt-center-ops",
+  "calt-arrow",
+  "calt-trig",
+  "calt-eqeq",
+  "calt-ineq",
+  "calt-exeq",
+  "calt-brst",
+  "calt-dot-oper",
+  "calt-plusplus",
+  "calt-kern-dotty",
+  "calt-html-comment"
+]
