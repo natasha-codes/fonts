@@ -1,13 +1,13 @@
-[buildPlans.natasha_I]
-family = "Natasha I"
-
 # refs:
 # - https://github.com/be5invis/Iosevka#build-your-own-style
 # - https://typeof.net/Iosevka
 
+[buildPlans.natasha_I]
+family = "Natasha I"
 design = [
-  "ss14", # Jetbrains Mono stylistic set
-  # low underscore
+  # inherit Jetbrains Mono stylistic set
+  "ss14",
+  # override styles
   "v-underscore-low",
   # customize ligatures
   "calt-center-ops",
