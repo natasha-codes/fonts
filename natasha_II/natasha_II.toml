@@ -1,0 +1,14 @@
+[buildPlans.natasha_II]
+family = "Natasha II"
+
+# refs:
+# - https://github.com/be5invis/Iosevka#build-your-own-style
+# - https://typeof.net/Iosevka
+
+design = [
+  "ss14", # Jetbrains Mono stylistic set
+  # low underscore
+  "v-underscore-low",
+  # disable ligatures
+  "calt-off",
+]
