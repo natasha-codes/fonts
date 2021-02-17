@@ -1,0 +1,13 @@
+# refs:
+# - https://github.com/be5invis/Iosevka#build-your-own-style
+# - https://typeof.net/Iosevka
+
+[buildPlans.natasha_II]
+family = "Natasha II"
+no-ligation = true
+design = [
+  # Inherit Jetbrains Mono stylistic set
+  "ss14",
+  # Override styles
+  "v-underscore-low"
+]
